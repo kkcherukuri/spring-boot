@@ -1,5 +1,5 @@
 package test.java.hello;
-
+/*comment git test*/
 import static org.hamcrest.CoreMatchers.containsString;
 import static org.junit.Assert.*;
 import main.java.hello.*;
